@@ -1,1 +1,9 @@
-qw
+-----------
+
+***WELCOME TO MR-ASAD-MD PLUGINS LIST CREATED BY USMAN786***
+
+-----------
+
+***THE WORLD BEST WHATSAPP BOT***
+
+----------
