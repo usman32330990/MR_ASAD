@@ -163,8 +163,7 @@ src="https://cardivo.vercel.app/api?name=SILENT%20SOBX%20MD%20V2&description=�
 
 ------------
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/SILENTLOVER40/SILENT-SOBX-MD)
-
+[ ! [Deploy To Heruko](https://www.herokucdn.com/deploy/button.svg) ] (https://heroku.com/deploy?template=https://github.com/usman32330990/MR_ASAD)
 ----------
 
 ### <br>    ❖ DEPLOY_REPLIT ❖
